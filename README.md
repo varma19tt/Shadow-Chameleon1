@@ -1,6 +1,6 @@
 # 🦎 SHADOW CHAMELEON - AI Red Team Partner
 
-![Main Interface](https://screenshots/main-interface.png)
+![Main Interface](screenshots/1.jpeg)
 
 Your **AI Red Team Partner** that evolves with every engagement.
 
@@ -116,7 +116,7 @@ Access the web interface at: **http://localhost:3000**
 ]
 ```
 
-![Analysis Results](https://screenshots/2.jpeg)
+![Analysis Results](screenshots/2.jpeg)
 
 ---
 
@@ -149,7 +149,7 @@ Access the web interface at: **http://localhost:3000**
 }
 ```
 
-![Execution Results](https://screenshots/execution-results.png)
+![Execution Results](https://screenshots/4.jpeg)
 
 ---
 
@@ -180,23 +180,23 @@ Access the web interface at: **http://localhost:3000**
 ]
 ```
 
-![Engagement History](https://screenshots/engagement-history.png)
+![Engagement History](screenshots/5.jpeg)
 
 ---
 
 ## 🖼️ Screenshots
 
 - **Main Interface**  
-  ![Main Interface](https://screenshots/main-interface.png)
+  ![Main Interface](screenshots/1.jpeg)
 
 - **Analysis in Progress**  
-  ![Analysis Loading](https://screenshots/analysis-loading.png)
+  ![Analysis Loading](screenshots/2.jpeg)
 
 - **Playbook Recommendations**  
-  ![Playbook](https://screenshots/playbook-recommendations.png)
+  ![Playbook](screenshots/3.jpeg)
 
 - **Attack Graph Visualization**  
-  ![Graph](https://screenshots/attack-graph.png)
+  ![Graph](screenshots/3.jpeg)
 
 ---
 
