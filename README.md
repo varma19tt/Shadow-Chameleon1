@@ -149,7 +149,7 @@ Access the web interface at: **http://localhost:3000**
 }
 ```
 
-![Execution Results](https://screenshots/4.jpeg)
+![Execution Results](screenshots/4.jpeg)
 
 ---
 
