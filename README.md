@@ -116,7 +116,7 @@ Access the web interface at: **http://localhost:3000**
 ]
 ```
 
-![Analysis Results](https://screenshots/analysis-results.png)
+![Analysis Results](https://screenshots/2.jpeg)
 
 ---
 
