@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🦎 SHADOW CHAMELEON - AI Red Team Partner
 
 ![Main Interface](screenshots/1.jpeg)
@@ -236,3 +237,18 @@ Distributed under the **MIT License**. See `LICENSE` for full details.
 ---
 
 🔥 _Stay stealthy. Stay sharp. Stay evolving._
+=======
+# SHADOW CHAMELEON
+
+AI Red Team Partner — MVP
+
+## Team
+- Backend Lead: Person A
+- Frontend Lead: Person B
+- Red Team Lead: Person C
+
+## Day 1 Goals
+- Docker installed & tested
+- Repo skeleton created: /backend /frontend /docs /sandbox
+- README, LICENSE, .gitignore, CONTRIBUTING, CODE_OF_CONDUCT added
+>>>>>>> eab9d948 (chore: initial project skeleton and docs (Day 1))
