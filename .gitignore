@@ -15,3 +15,18 @@ docker-compose.override.yml
 
 # OS files
 .DS_Store
+# Virtual envs
+venv/
+myenv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# DB
+*.db
+shadow_chameleon.db
+
+# Editor files
+.vscode/
+.idea/
